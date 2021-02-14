@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Color Survey Project (group project)",
+      "image":
+        "./public/projpics/homepage.png",
+      "description": "A website where the user picks their favorite and least favorite colors from a color picker and a results webpage is generated from the average picked colors of every user who ever visited the site.",
+      "technology": "Made with Handlebars, CSS, JavaScript, jQuery, Bootstrap, Sequilize and a SQL database, Node.js, Express, and Heroku.",
+      "livelink": "https://colorproject.herokuapp.com/"
+    },
+    {
+        "id": 2,
+        "name": "MUZYLITICS (group project)",
+        "image":
+          "./public/projpics/muzylitics-img.png",
+        "description": "A website where the user enters a band name and gets Youtube links to 5 songs by related bands.",
+        "technology": "Made with HTML, CSS, JavaScript, jQuery, Bootstrap, and Youtube and TasteDive's APIs",
+        "livelink": "https://timholzer.github.io/MUZYLITICS/"
+      },
+      {
+        "id": 3,
+        "name": "Weather Dashboard",
+        "image":
+          "./public/projpics/weather.png",
+        "description": "A website where the user enters a city name and gets back the current weather and a 5 day forecast.",
+        "technology": "Made with HTML, CSS, JavaScript, jQuery, Bootstrap, and the OpenWeather API",
+        "livelink": "https://timholzer.github.io/Weather-Dashboard/"
+      },
+      {
+        "id": 4,
+        "name": "JavaScript Quiz Site",
+        "image":
+          "./public/projpics/js-quiz.png",
+        "description": "A website with a quiz that is kind of related to JavaScript.",
+        "technology": "Made in HTML, CSS, and JavaScript",
+        "livelink": "https://timholzer.github.io/Javascript-quiz-site/"
+      },
+      {
+        "id": 5,
+        "name": "Offline Budget PWA",
+        "image":
+          "./public/projpics/budgetapp.png",
+        "description": "A web app where the user can keep track of their budget, even when not connected to the internet",
+        "technology": "Made with HTML, CSS, JavaScript, Bootstrap, Charts, Node.js, Express, MongoDB, manifests, and service-workers",
+        "livelink": "https://budget-tracker-holzer.herokuapp.com/"
+      },
+      {
+        "id": 6,
+        "name": "Workout Tracker",
+        "image":
+          "./public/projpics/dashboard.png",
+        "description": "A website where the user can add exercises and workouts and keep track of them over time",
+        "technology": "Made with HTML, CSS, JavaScript, Bootstrap, Charts, SQL, Sequelize, Node.js, and Express",
+        "livelink": "https://workout-tracker-holzer.herokuapp.com/?id=601078c457efec0015f40540"
+      }
+  ]
+  
